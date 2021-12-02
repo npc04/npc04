@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+    npc#1000
+</p>
 
-<!--
-**npc04/npc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npc04&layout=compact&theme=midnight-purple" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 
+  <h1 align="center">Visitor count since 2021<br>
+  <img src="https://profile-counter.glitch.me/npc04/count.svg" />
+    </h1>
+</p>
